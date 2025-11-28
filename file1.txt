@@ -1,5 +1,9 @@
 Started with the project
 start with Cr001
+<<<<<<< Updated upstream
 New commit changes for CR0
 New Requirement for Hotfix
+=======
+New commit changes for CR001
+>>>>>>> Stashed changes
 Stashing concept
