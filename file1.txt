@@ -1,4 +1,5 @@
 Started with the project
 start with Cr001
-New commit changes for CR001
+New commit changes for CR0
 New Requirement for Hotfix
+Stashing concept
